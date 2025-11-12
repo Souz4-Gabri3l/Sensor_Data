@@ -1,10 +1,3 @@
-# Sensor_Data
-
-**Sensor_Data** é um projeto em **Python** desenvolvido para **simular, armazenar, analisar e monitorar dados de sensores ambientais**, como temperatura, umidade e pressão.  
-Ele demonstra habilidades em **manipulação de dados, automação, IoT (Internet das Coisas)** e **programação modular**.
-
----
-
 ## Funcionalidades
 
 -  **Geração automática** de dados fictícios de sensores  
